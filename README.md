@@ -1,0 +1,2 @@
+# MNIST-MIDTERM-REPORT
+CSE3057 midterm report
