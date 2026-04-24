@@ -1,2 +1,2 @@
-# MNIST-MIDTERM-REPORT
-CSE3057 midterm report
+# MNIST-MIDTERM-REPORT 
+CSE3057 midterm report by Do Tien Dat 24110211 VJU
